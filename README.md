@@ -22,3 +22,10 @@ node assessment.js
 
 ## Requirements
 - Node.js v18+
+
+
+## Score Achieved
+
+- Final Score: 73%
+- Status: PASS ✅
+- Attempts: 3 of 3
